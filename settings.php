@@ -76,7 +76,7 @@ function buyxgetyfree_every_x_free_render() {
 	global $plugin_options;
 	?>
 	<input id='buyxgetyfree_every_x_free' name='buyxgetyfree_settings[buyxgetyfree_every_x_free]'  type='number' min='2' max='100' value='<?php echo $plugin_options['buyxgetyfree_every_x_free'] ?>' />
-	<p><em><?php echo __( 'Must be a number between 2 and 100', 'buyxgetyfree' ); ?></em></p>
+	<p><em><?php echo __( 'Must be a number between 2 and 100. ', 'buyxgetyfree' );echo __( 'Cheeppest items will be sold for free.', 'buyxgetyfree' ); ?></em></p>
 
 <?php	
 }
