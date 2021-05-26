@@ -1,4 +1,4 @@
-This plugin adds promition functionality to woocommerce.
+This plugin adds promition functionality to woocommerce (Buy X get Y free).
 
 To install, copy files to your FTP ( wc-content/plugins/buy-x-get-y-free ), and activate it on plugins page.
 
