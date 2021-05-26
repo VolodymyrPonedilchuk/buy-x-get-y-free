@@ -7,6 +7,6 @@ To enable promotion and set number of promoted items in cart go to settings page
 There is extra option to sort items in cart by price.
 
 Defalt values: 
-    status: Off
-    every X item is free: 3
-    sort cart items by price: Off
+    status: Off; 
+    every X item is free: 3; 
+    sort cart items by price: Off; 
